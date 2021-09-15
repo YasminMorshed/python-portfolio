@@ -1,4 +1,4 @@
-# python-portfolio
+# Python Portfolio
 :snake: Python portfolio containing some exercises
 
 ## Notes
