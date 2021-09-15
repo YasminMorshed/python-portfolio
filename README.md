@@ -3,6 +3,7 @@
 
 ## Notes
 
+- Our lecturer was Ms Jin Yee Tay from Manchester Metropolitan University
 - Grade: 85/100
 - All usernames and passwords are fictional
 
