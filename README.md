@@ -1,9 +1,8 @@
 # python-portfolio
 :snake: Python portfolio containing some exercises
 
-## About
+## Notes
 
-- Python Portfolio containing some exercises
 - Grade: 85/100
 - All usernames and passwords are fictional
 
