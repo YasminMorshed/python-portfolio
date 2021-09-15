@@ -1,7 +1,7 @@
 # python-portfolio
 :snake: Python portfolio containing some exercises
 
-## _Python Portfolio_
+## About
 
 - Python Portfolio containing some exercises
 - Grade: 85/100
